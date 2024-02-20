@@ -1,0 +1,66 @@
+.services {
+    background-color: #fff;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .subtitle {
+    text-align: center;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .serviceTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .tableHeader {
+    background-color: #f2f2f2;
+    color: #333;
+    display: flex;
+    padding: 10px 0;
+  }
+  
+  .headerModule, .headerDescription, .module, .description {
+    padding: 0 15px;
+  }
+  
+  .headerModule, .module {
+    width: 20%;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .headerDescription, .description {
+    width: 80%;
+    text-align: left;
+  }
+  
+  .tableRow {
+    display: flex;
+    padding: 10px 0;
+    border-bottom: 1px solid #eaeaea;
+  }
+  
+  .ctaContainer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+  }
+  
+  .ctaButton, .ctaButtonSecondary {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  

@@ -1,0 +1,49 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logoContainer {
+    flex: 1 1 100%;
+    text-align: center;
+  }
+  
+  .logo {
+    max-width: 100px;
+  }
+  
+  .linksContainer {
+    flex: 2 1 50%;
+    text-align: center;
+  }
+  
+  .links {
+    list-style-type: none;
+    padding: 0;
+    color:white;
+  }
+  
+  .links li {
+    display: inline-block;
+    margin-right: 10px;
+    color:white;
+  }
+  .links li:active {
+   
+    color:white;
+  }
+  .policy {
+    flex: 1 1 100%;
+    text-align: center;
+  }
+  .links li a {
+    color: #fff; 
+    text-decoration: none; 
+  }
+
+  .policy a {text-decoration: none;color:red}

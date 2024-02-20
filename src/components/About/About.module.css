@@ -1,0 +1,78 @@
+.about {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    padding: 2rem;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 3rem;
+  }
+  
+  .subtitle {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+  }
+  
+  .intro {
+    flex-basis: 45%;
+  }
+  
+  .introTitle {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .introText {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .description {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  .values {
+    flex-basis: 45%;
+  }
+  
+  .valueItem {
+    margin-bottom: 2rem;
+  }
+  
+  .number {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .valueTitle {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .valueDescription {
+    font-size: 1rem;
+  }
+  
+  .partners {
+   
+    text-align: center;
+  
+  }
+  
+  .partnersTitle {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  img{
+    max-width: 30vw;
+  }
+  
